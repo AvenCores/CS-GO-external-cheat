@@ -1,21 +1,21 @@
 import subprocess
 
-version = 1.0
+version = 1.1
 
 def wallhack():
-    subprocess.call('start /wait python whmod.py', shell=True)
+    subprocess.call('start /wait python modData/whmod.py', shell=True)
     global banner
     print(banner+"\nНажмите ENTER для выхода в главное меню")
     input()
 
 def bhop():
-    subprocess.call('start /wait bhopmod.py', shell=True)
+    subprocess.call('start /wait modData/bhopmod.py', shell=True)
     global banner
     print(banner+"\nНажмите ENTER для выхода в главное меню")
     input()
 
 def RadarHack():
-    subprocess.call('start /wait radarhackmod.py', shell=True)
+    subprocess.call('start /wait modData/radarhackmod.py', shell=True)
     global banner
     print(banner+"\nНажмите ENTER для выхода в главное меню")
     input()
