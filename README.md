@@ -11,8 +11,6 @@
 # Важная информация
 * CS-GO-external-cheat работает только на Windows
 
-* Если появились вопросы, то пишите мне в Телеграм! @avencores
-
 # Telegram Channel
 * У CS-GO-external-cheat есть свой Telegram-канал! @hzfnews
 
